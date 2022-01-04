@@ -30,9 +30,7 @@
 as NT_PROCESSOR_GROUP has to be defined before ntddk.h->wdm.h and including
 sdkddkver.h before ntddk.h cause compilation failure in wdm.h and ntddk.h */
 
-#if NTDDI_VERSION > 0x06000400
 #define NT_PROCESSOR_GROUPS
-#endif
 
 #include "ParaNdis6.h"
 #include "ParaNdis-Oid.h"
