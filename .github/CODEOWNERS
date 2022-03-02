@@ -1,0 +1,24 @@
+# the default owners
+*                   @kostyanf14
+
+/Balloon/           @v-plakhotnyuk
+/Documentation/     @v-plakhotnyuk @kostyanf14
+/fwcfg/             @kostyanf14
+/fwcfg64/
+/ivshmem/
+/NetKVM/
+/packaging/
+/pciserial/
+/pvpanic/
+/Q35/
+/Tools/
+/viocrypt/
+/viofs/
+/viogpu/
+/vioinput/
+/viorng/
+/vioscsi/
+/vioserial/
+/viosock/
+/viostor/
+/VirtIO/
