@@ -8,6 +8,4 @@ for %%D in (VirtIO NetKVM viostor vioscsi Balloon vioserial viorng vioinput viof
   )
   popd
 )
-
-if exist buildfre_*.log del buildfre_*.log
 if exist buildchk_*.log del buildchk_*.log
