@@ -1,7 +1,4 @@
-Date    22 Apr 2020
-tag     mm201
-
-Fixed bugs:
+ 
 
 BZ#1821560: [viostor] driver does not return correct serial number length.
 
